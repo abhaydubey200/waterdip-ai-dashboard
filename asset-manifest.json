@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abhaydubey200/waterdip-ai-dashboard.git/static/css/main.b1cec025.css",
+    "main.js": "/abhaydubey200/waterdip-ai-dashboard.git/static/js/main.b06c9ee8.js",
+    "index.html": "/abhaydubey200/waterdip-ai-dashboard.git/index.html",
+    "main.b1cec025.css.map": "/abhaydubey200/waterdip-ai-dashboard.git/static/css/main.b1cec025.css.map",
+    "main.b06c9ee8.js.map": "/abhaydubey200/waterdip-ai-dashboard.git/static/js/main.b06c9ee8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1cec025.css",
+    "static/js/main.b06c9ee8.js"
+  ]
+}
